@@ -23,3 +23,12 @@
 
 - 中介者模式（Mediator）
 - 观察者模式（Observer）
+- 命令模式（Command）
+- 迭代器模式（Iterator）
+- 模板方法模式（Template Method）
+- 策略模式（Strategy）
+- 状态模式（State）
+- 备忘录模式（Memento）
+- 解释器模式（Interpreter）
+- 职责链模式（Chain of Responsibility）
+- 访问者模式（Visitor）
